@@ -31,3 +31,4 @@ A simple FastAPI-based application for generating comics dynamically. Features i
    ```"# comic-generator" 
 "# comic-generator" 
 "# comic-generator" 
+"# comic-generator-2" 
