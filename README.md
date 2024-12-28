@@ -29,3 +29,5 @@ A simple FastAPI-based application for generating comics dynamically. Features i
    ```bash
    docker run -p 8000:8000 comic-api
    ```"# comic-generator" 
+"# comic-generator" 
+"# comic-generator" 
